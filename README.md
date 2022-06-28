@@ -16,9 +16,7 @@ scripting. The specific list of projects contained follows:
 * [0x07-python-test_driven_development](./0x07-python-test_driven_development)
 * [0x08-python-more_classes](./0x08-python-more_classes)
 
-## Author :
 
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
 
 ## Acknowledgements :pray:
 
