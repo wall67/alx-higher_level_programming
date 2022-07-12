@@ -16,6 +16,8 @@ scripting. The specific list of projects contained follows:
 * [0x07-python-test_driven_development](./0x07-python-test_driven_development)
 * [0x08-python-more_classes](./0x08-python-more_classes)
 * [0x09-python-everything_is_object](./0x09-python-everything_is_object)
+* [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle)
+
 
 
 
